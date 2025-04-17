@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\LinQ_project\obj\Debug\net8.0\LinQ_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\LinQ_project\obj\Debug\net8.0\LinQ_project.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\LinQ_project\obj\Debug\net8.0\LinQ_project.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\LinQ_project\obj\Debug\net8.0\LinQ_project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\LinQ_project\obj\Debug\net8.0\LinQ_project.sourcelink.json
+C:\Users\Lenovo\Desktop\LinQ_project\bin\Debug\net8.0\LinQ_project.exe
+C:\Users\Lenovo\Desktop\LinQ_project\bin\Debug\net8.0\LinQ_project.deps.json
+C:\Users\Lenovo\Desktop\LinQ_project\bin\Debug\net8.0\LinQ_project.runtimeconfig.json
+C:\Users\Lenovo\Desktop\LinQ_project\bin\Debug\net8.0\LinQ_project.dll
+C:\Users\Lenovo\Desktop\LinQ_project\bin\Debug\net8.0\LinQ_project.pdb
+C:\Users\Lenovo\Desktop\LinQ_project\obj\Debug\net8.0\LinQ_project.dll
+C:\Users\Lenovo\Desktop\LinQ_project\obj\Debug\net8.0\refint\LinQ_project.dll
+C:\Users\Lenovo\Desktop\LinQ_project\obj\Debug\net8.0\LinQ_project.pdb
+C:\Users\Lenovo\Desktop\LinQ_project\obj\Debug\net8.0\LinQ_project.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\LinQ_project\obj\Debug\net8.0\ref\LinQ_project.dll
