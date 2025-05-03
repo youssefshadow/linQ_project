@@ -69,7 +69,7 @@ namespace LinQ_project.Services
                 return comparableValue;
             }
 
-            // Sinon, si c'est une chaîne ou un nombre, retourne la valeur sous forme de chaîne
+            // Sinon, je force la sortie  la valeur sous forme de chaîne
             return value.ToString();
         }
 

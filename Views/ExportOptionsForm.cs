@@ -42,10 +42,12 @@ namespace LinQ_project.Views
         // Choisir le format d'export
         private string GetExportFormat()
         {
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("\nChoisissez le format d'export :");
             Console.WriteLine("1. JSON");
             Console.WriteLine("2. XML");
             Console.WriteLine("3. Base de données");
+            Console.ResetColor();
 
             var choice = Console.ReadLine();
             return choice switch
@@ -76,10 +78,15 @@ namespace LinQ_project.Views
                     _exportService.ExportToXml(_result, outputPath);
                     break;
                 case "DB":
-                    Console.WriteLine("Export vers DB non implémenté dans cette version.");
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Export vers DB non implémenté dans cette version.!!!");
+                    Console.ResetColor();
+
                     break;
                 default:
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Format non supporté.");
+                    Console.ResetColor();
                     break;
             }
         }

@@ -1,0 +1,37 @@
+[
+  {
+    "ID": 1,
+    "Nom": "Jean Dupont",
+    "Age": 28,
+    "Ville": "Paris",
+    "Email": "jean.dupont@example.com"
+  },
+  {
+    "ID": 2,
+    "Nom": "Marie Dubois",
+    "Age": 34,
+    "Ville": "Lyon",
+    "Email": "marie.dubois@example.com"
+  },
+  {
+    "ID": 3,
+    "Nom": "Pierre Martin",
+    "Age": 45,
+    "Ville": "Marseille",
+    "Email": "pierre.martin@example.com"
+  },
+  {
+    "ID": 4,
+    "Nom": "Sophie Lefevre",
+    "Age": 29,
+    "Ville": "Paris",
+    "Email": "sophie.lefevre@example.com"
+  },
+  {
+    "ID": 5,
+    "Nom": "Michel Lemoine",
+    "Age": 38,
+    "Ville": "Bordeaux",
+    "Email": "michel.lemoine@example.com"
+  }
+]
